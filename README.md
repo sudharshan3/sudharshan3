@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hashroot
+- 🔭 I’m currently working on TCS
 - 💬 Ask me about React JS and UI development/designing
 - 📫 Reach me at : [@sudharshan_muralidharan](https://www.instagram.com/sudharshan_muralidharan/)
 
