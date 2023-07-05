@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p style="display:flex">
-  <img  style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharshan3&show_icons=true&locale=en&layout=compact" alt="sudharshan3" />
-  <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=sudharshan3&show_icons=true&locale=en" alt="sudharshan3" />
+<p style="display:flex,justify-content:space-evenly,align-items:stretch ">
+  <img style="width:100%,height:100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharshan3&show_icons=true&locale=en&layout=compact" alt="sudharshan3" />
+  <img style="width:100%,height:100%" src="https://github-readme-stats.vercel.app/api?username=sudharshan3&show_icons=true&locale=en" alt="sudharshan3" />
 </p>
 
 <p></p>
