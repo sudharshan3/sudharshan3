@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudharshan</h1>
+<h1 align="center">👋 Hi , I'm Sudharshan</h1>
 <h3 align="center">Full-Stack Developer | GO | MERN Stack | Kubernetes</h3>
 
 ## &#x1F4BB; Languages and Tools
